@@ -1,0 +1,9 @@
+{
+  "appname": "XXXXX",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
